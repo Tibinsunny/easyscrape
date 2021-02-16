@@ -10,7 +10,7 @@ Easyscrape is a simple php library which allows you to scrape website based on t
 ```
 URL should have http/https protocol
 
-## Sample Code
+## Sample Code ⚙
 ```
 <?php
 // require_once __DIR__ . '/../vendor/autoload.php';
