@@ -13,8 +13,7 @@ URL should have http/https protocol
 ## Sample Code ⚙
 ```
 <?php
-// require_once __DIR__ . '/../vendor/autoload.php';
-require_once __DIR__ . './src/easyscrape.php';
+ require_once __DIR__ . '/../vendor/autoload.php';
 
 use easyScrape\easyScrape;
 
