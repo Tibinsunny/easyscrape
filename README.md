@@ -1,5 +1,5 @@
 # EasyScrape 🚀
-Easyscrape is a simple php library which allows you to scrape website based on the DOM elements. All you need to know is the exact HTML elements in which the data is displayed.
+Easyscrape is a simple php library which allows you to scrape website based on the DOM elements. All you need to know is the exact HTML tag in which the data is displayed.
 
 ## Installation 💻
 `composer require tibinsunny/easyscrape`  
