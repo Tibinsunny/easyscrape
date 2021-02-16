@@ -1,20 +1,21 @@
 {
-    "name": "tibinsunny/easyscraper",
-    "description": "This Library will help you to scrape any website easily",
-    "keywords": ["scrape","simple-scrape","easyscrape"],
-    "type": "easyscraper",
-    "license": "MIT",
+    "name": "tibinsunny/easyscrape",
+    "description": "A Library which can easily scrape website 🚀",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
     "authors": [
         {
-            "name": "tibinsunny",
+            "name": "Tibin Sunny",
             "email": "tibinsunny95@gmail.com"
         }
     ],
-    "require": {},
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": {
-            "easyscrape": "src"
+        "psr-4": {
+            "easyScrape\\": "src/"
         }
     }
 }
