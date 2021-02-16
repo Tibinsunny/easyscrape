@@ -6,7 +6,5 @@ Easyscrape is a simple php library which allows you to scrape website based on t
 ## Usage
 ``` use easyScrape\easyScrape;     
    $instance = new easyScrape();
-   $result=$instance->scrapeNow(URL,STARTING_TAG,ENDING_TAG) ``` 
-//URL should include the HTTP/HTTPS protocol
+   $result=$instance->scrapeNow(URL,STARTING_TAG,ENDING_TAG); ```
 
-``Note: The response will be an array. var_dump($result) to access the elements in array``
