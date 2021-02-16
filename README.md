@@ -8,4 +8,4 @@ Easyscrape is a simple php library which allows you to scrape website based on t
    $instance = new easyScrape();
    $result=$instance->scrapeNow(URL,STARTING_TAG,ENDING_TAG); 
 ```
-
+URL should have http/https protocol
