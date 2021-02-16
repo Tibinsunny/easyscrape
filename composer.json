@@ -12,6 +12,7 @@
             "email": "tibinsunny95@gmail.com"
         }
     ],
+     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "easyScrape\\": "src/"
